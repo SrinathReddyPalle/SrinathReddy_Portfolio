@@ -1,0 +1,68 @@
+{
+  "basic_info": {
+    "name": "Srinath Reddy Palle",
+    "titles": [
+      ".Net Developer",
+      "C# Developer",
+      "Back-End Developer",
+      "Full Stack Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/SrinathReddyPalle",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "www.linkedin.com/in/srinathpallereddy",
+        "class": "fab fa-LinkedIn"
+      }
+    ],
+    "image": "Srinath1.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        "level": "65"
+      },
+      {
+        "name": "MS SQL",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d499d35.css",
+    "main.js": "/static/js/main.200ef2e6.js",
+    "static/media/Srinath1.jpg": "/static/media/Srinath1.d8573eaade8cc2a0cd59.jpg",
+    "static/media/Srinath3.jpg": "/static/media/Srinath3.1f491fd4a35ac65f84aa.jpg",
+    "index.html": "/index.html",
+    "main.9d499d35.css.map": "/static/css/main.9d499d35.css.map",
+    "main.200ef2e6.js.map": "/static/js/main.200ef2e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d499d35.css",
+    "static/js/main.200ef2e6.js"
+  ]
+}

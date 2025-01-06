@@ -1,0 +1,117 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": " I'm Srinath Reddy Palle. Experienced professional with 8 years in web and windows application development using Microsoft.NET technologies. Skilled in design and development of applications with expertise in C#.NET, .NET Core, MVP, MVC, ADO.NET, React JS, Interfaces and Python. Proficient in SQL Server database design and loosely typed solutions using Events and Delegates in C#. Excels in object-oriented programming, RESTful API development, and troubleshooting, with excellent communication and teamwork abilities. Successfully contributed to development teams, created frameworks for payroll compliance, tax calculation, and implemented role-based algorithms for access rights.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "OnBalance",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on .",
+      "images": [],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Thomson Reuters",
+      "Project": "OnBalance",
+      "title": "Senior Software Engineer",
+      "years": "06.2023 - Present",
+      "mainTech": [
+        "C#, SQL, LINQ, Entity Framework"
+      ],
+      "technologies": [
+        "C#",
+        "Winforms",
+        "SQL Server(2019)",
+        "LINQ",
+        "ADO.NET",
+        "Entity Framework",
+        "Interfaces",
+        "HTML 5",
+        "CSS 3",
+        "JavaScript",
+        "Angular",
+        "React JS"
+      ]
+    },
+    {
+      "company": "Legacy Health",
+      "Project": "HealthCare",
+      "title": "Senior .Net Developer",
+      "years": "03.2021 - 06.2023",
+      "mainTech": [
+        "C#, SQL, LINQ, Entity Framework, .Net Core"
+      ],
+      "technologies": [
+        "C#",
+        "Winforms",
+        "Web APIs",
+        "Restful APIs",
+        "SQL",
+        "LINQ",
+        "ADO.NET",
+        "Entity Framework",
+        "Interfaces",
+        "VSTO",
+        "Office Add-ins"
+      ]
+    },
+    {
+      "company": "United Commmunity Bank",
+      "title": "Software Engineer",
+      "years": "12.2018 - 02.2021",
+      "mainTech": [
+        "C#, SQL, LINQ, Entity Framework, .Net Framework"
+      ],
+      "technologies": [
+        "C#",
+        "Winforms",
+        "SQL",
+        "LINQ",
+        "ADO.NET",
+        "Entity Framework",
+        "Interfaces"
+      ]
+    },
+    {
+      "company": "VentureDive",
+      "Project": "",
+      "title": ".Net developer",
+      "years": "06.2016 - 11.2018",
+      "mainTech": [
+        "C#, SQL, LINQ, Entity Framework"
+      ],
+      "technologies": [
+        "C#",
+        "Winforms",
+        "SQL",
+        "LINQ",
+        "ADO.NET",
+        "Entity Framework",
+        "VSTO",
+        "Office Add-ins"
+      ]
+    }
+  ]
+}
